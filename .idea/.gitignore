@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.class
+
+#intellij
+out/
+out/production/project
+out/production/
